@@ -1,0 +1,3 @@
+1. Automated deployment pipeline using CI/CD
+2. Docker container set-up for a simple application
+3. Automated software updates

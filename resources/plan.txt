@@ -1,0 +1,10 @@
+Step 1: Create project folder
+Step 2: Move into the project folder
+Step 3: Create a file named "plan.txt" and write the project plan in it
+Step 4: Set the file's permissions
+Step 5: Check the file's permission
+Step 6: Create two subdirectories named "resources" and "archive"
+Step 7: Move "plan.txt" file in resources subdirectory
+Step 8: Create a new file names "ideas.txt" in the resources subdirectory and write three project ideas
+Step 9: Set the permissions of "ideas.txt" so everyone can read but only you can modify
+Step 10: Move to the project directory and copy "ideas.txt" from resources to archiven
